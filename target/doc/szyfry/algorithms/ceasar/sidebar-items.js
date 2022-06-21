@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CeasarData","Przechowuje dodatkowe infromacje potrzebne dla szyfru cezara"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["HomophonicData","Przechowuje dodatkowe infromacje potrzebne dla szyfru homofonicznego"]]});

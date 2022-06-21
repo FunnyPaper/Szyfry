@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PolyalphabeticData","Przechowuje dodatkowe infromacje potrzebne dla szyfru wieloalfabetowego (Szyfr Vigenère’a)"]]});
